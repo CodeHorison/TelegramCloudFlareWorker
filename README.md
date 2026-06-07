@@ -1,4 +1,4 @@
-# TelegramCloudFlareWorker
+# Telegram CloudFlare Worker
 Telegram Cloudflare Worker based on TCP socket [docs](https://developers.cloudflare.com/workers/runtime-apis/tcp-sockets)
 Forked from [Flowseal/tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy/blob/main/docs/CfWorker.md)
 
